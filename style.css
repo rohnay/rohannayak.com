@@ -370,9 +370,10 @@ strong {
 }
 
 #newsticker{
-  font-family: 'Mulish', sans-serif;  
+  font-family: 'Inter', sans-serif;  
   opacity: 10%;
   letter-spacing: -2px;
+  font-size: 3.5rem;
 }
 
 .marquee {
